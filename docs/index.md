@@ -31,4 +31,4 @@ Ce projet présente une solution complète de scoring crédit qui intègre les b
 
 💻 **Technologies utilisées :** Python, Jupyter Notebook, FastAPI, Docker, CI/CD, MLflow
 
-🌐 [👉 Explorer le projet credit-scoring](https://github.com/jademayalb/credit-scoring)
+🌐 [👉 Explorer le projet credit-scoring]([https://github.com/jademayalb/credit-scoring](https://github.com/jademayalb/credit-scoring/blob/main/docs/index.md))
